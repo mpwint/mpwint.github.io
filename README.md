@@ -8,4 +8,4 @@ This is a personal site created and maintained by **[Mary Pwint](http://mpwint.g
 
 ## Credit
 
-Start Bootstrap - Resume (https://github.com/BlackrockDigital/startbootstrap-resume)
+Start Bootstrap - **[Resume] (https://github.com/BlackrockDigital/startbootstrap-resume)**
