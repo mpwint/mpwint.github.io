@@ -4,8 +4,8 @@
 
 ## About
 
-This is a personal site created and is maintained by **[Mary Pwint](http://mpwint.github.io/)**
+This is a personal site created and maintained by **[Mary Pwint](http://mpwint.github.io/)**
 
 ## Credit
 
-Start Bootstrap - Resume (https://github.com/BlackrockDigital/startbootstrap-resume)
+Start Bootstrap - **[Resume](https://github.com/BlackrockDigital/startbootstrap-resume)**
