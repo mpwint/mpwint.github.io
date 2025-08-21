@@ -4,7 +4,7 @@
 
 ## About
 
-This is a personal site created and maintained by **[Mary Pwint](http://mpwint.github.io/)**
+This is a personal site created and maintained by **[Mayy Pwint](http://mpwint.github.io/)**
 
 ## Credit
 
